@@ -1,5 +1,5 @@
 Reporting Country/Territory/Area,Total confirmed,Total confirmed,Total deaths,Total new deaths,Transmission,Days since last
-,cases,new cases,,,classificationi,reported case
+"",cases,new cases,,,classificationi,reported case
 Africa,,,,,,
 South Africa,298 292,10 496,4 346,174,Community transmission,0
 Nigeria,33 616,463,754,10,Community transmission,0
@@ -23,7 +23,7 @@ Zambia,2 283,0,82,0,Community transmission,1
 South Sudan,2 153,5,41,0,Clusters of cases,0
 Guinea-Bissau,1 902,0,26,0,Community transmission,1
 Reporting Country/Territory/Area,Total confirmed,Total confirmed,Total deaths,Total new deaths,Transmission,Days since last
-,cases,new cases,,,classificationi,reported case
+"",cases,new cases,,,classificationi,reported case
 Cabo Verde,1 780,58,19,0,Clusters of cases,0
 Sierra Leone,1 651,9,64,1,Community transmission,0
 Benin,1 463,85,28,2,Community transmission,0
@@ -48,7 +48,7 @@ Comoros,321,4,7,0,Community transmission,0
 Burundi,269,0,1,0,Clusters of cases,1
 Lesotho,256,11,3,0,Sporadic cases,0
 Reporting Country/Territory/Area,Total confirmed,Total confirmed,Total deaths,Total new deaths,Transmission,Days since last
-,cases,new cases,,,classificationi,reported case
+"",cases,new cases,,,classificationi,reported case
 Eritrea,232,0,0,0,Sporadic cases,5
 Seychelles,100,0,0,0,Clusters of cases,5
 Gambia,64,0,3,0,Sporadic cases,5
@@ -74,7 +74,7 @@ El Salvador,10 303,325,278,11,Community transmission,0
 Venezuela (Bolivarian Republic of),9 707,242,93,4,Community transmission,0
 Costa Rica,8 036,440,31,1,Community transmission,0
 Reporting Country/Territory/Area,Total confirmed,Total confirmed,Total deaths,Total new deaths,Transmission,Days since last
-,cases,new cases,,,classificationi,reported case
+"",cases,new cases,,,classificationi,reported case
 Haiti,6 727,0,141,2,Community transmission,1
 Paraguay,2 980,0,25,0,Community transmission,1
 Nicaragua,2 712,301,99,8,Community transmission,0
@@ -100,7 +100,7 @@ Martinique,255,0,15,0,Clusters of cases,3
 United States Virgin Islands,206,0,6,0,Clusters of cases,1
 Cayman Islands,203,2,1,0,Clusters of cases,0
 Reporting Country/Territory/Area,Total confirmed,Total confirmed,Total deaths,Total new deaths,Transmission,Days since last
-,cases,new cases,,,classificationi,reported case
+"",cases,new cases,,,classificationi,reported case
 Guadeloupe,190,0,14,0,Clusters of cases,4
 Bermuda,150,0,9,0,Sporadic cases,3
 Aruba,105,0,3,0,Sporadic cases,8
@@ -126,7 +126,7 @@ Oman,59 568,1 389,273,14,Community transmission,0
 Kuwait,56 174,666,396,3,Clusters of cases,0
 United Arab Emirates,55 573,375,335,1,Community transmission,0
 Reporting Country/Territory/Area,Total confirmed,Total confirmed,Total deaths,Total new deaths,Transmission,Days since last
-,cases,new cases,,,classificationi,reported case
+"",cases,new cases,,,classificationi,reported case
 Afghanistan,34 940,200,1 094,49,Clusters of cases,0
 Bahrain,34 078,602,111,2,Clusters of cases,0
 Morocco,16 097,161,257,2,Clusters of cases,0
@@ -152,7 +152,7 @@ France,162 390,0,29 925,0,Clusters of cases,1
 Sweden,76 001,175,5 545,9,Community transmission,0
 Belarus,65 269,155,474,6,Community transmission,0
 Reporting Country/Territory/Area,Total confirmed,Total confirmed,Total deaths,Total new deaths,Transmission,Days since last
-,cases,new cases,,,classificationi,reported case
+"",cases,new cases,,,classificationi,reported case
 Kazakhstan,63 514,1 759,375,0,Clusters of cases,0
 Belgium,62 781,0,9 787,0,Community transmission,1
 Ukraine,55 607,836,1 427,15,Community transmission,0
@@ -178,7 +178,7 @@ Bulgaria,7 645,234,283,7,Clusters of cases,0
 Finland,7 301,6,329,0,Clusters of cases,0
 Bosnia and Herzegovina,6 979,0,224,0,Community transmission,1
 Reporting Country/Territory/Area,Total confirmed,Total confirmed,Total deaths,Total new deaths,Transmission,Days since last
-,cases,new cases,,,classificationi,reported case
+"",cases,new cases,,,classificationi,reported case
 Tajikistan,6 643,48,56,1,Pending,0
 Luxembourg,4 956,0,111,0,Community transmission,1
 Hungary,4 263,16,595,0,Community transmission,0
@@ -203,7 +203,7 @@ Holy See,12,0,0,0,Sporadic cases,69
 Territoriesii,,,,,,
 Kosovo[1],5 075,0,98,0,Community transmission,1
 Reporting Country/Territory/Area,Total confirmed,Total confirmed,Total deaths,Total new deaths,Transmission,Days since last
-,cases,new cases,,,classificationi,reported case
+"",cases,new cases,,,classificationi,reported case
 Isle of Man,336,0,24,0,No cases,54
 Jersey,329,0,31,0,Community transmission,1
 Guernsey,252,0,13,0,Community transmission,73
@@ -228,7 +228,7 @@ Singapore,46 630,347,27,1,Clusters of cases,0
 Japan,22 508,288,984,2,Clusters of cases,0
 Republic of Korea,13 551,39,289,0,Clusters of cases,0
 Reporting Country/Territory/Area,Total confirmed,Total confirmed,Total deaths,Total new deaths,Transmission,Days since last
-,cases,new cases,,,classificationi,reported case
+"",cases,new cases,,,classificationi,reported case
 Australia,10 251,271,108,0,Clusters of cases,0
 Malaysia,8 729,4,122,0,Clusters of cases,0
 New Zealand,1 197,2,22,0,Clusters of cases,0
